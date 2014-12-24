@@ -1,6 +1,7 @@
 /** 
  * 获取今天、昨天、前天、本周、本季度、本月、上月的开始日期、结束日期 
  *
+ * 
  */
 Datetime = function(){
 	this.init.apply(this, arguments);
